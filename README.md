@@ -1,4 +1,5 @@
 # Timesheet Manager
+
 This provides the frontend for the Timesheet manager support app for the Automation in Testing Engineer learning journey.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -29,3 +30,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+A new change, a new world!
